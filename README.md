@@ -9,3 +9,6 @@ cp .env.example .env
 ```shell
 docker-compose up
 ```
+git config --global user.name "Albina02122023"
+git config --global user.email "Abina5@yandex.ru"
+git remote add <First> <https://github.com/Albina02122023/First>
